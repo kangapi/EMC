@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: Comment encadrer la liberté d’expression sur les réseaux sociaux ?
+copyright: Copyright &copy; 2023 Damien Hasenfratz
+extra:
+  generator: false
+theme:
+  language: fr
+  features:
+    - toc.integrate
+    - toc.follow
+    - navigation.indexes
+    - content.tooltips
+    - navigation.footer
+  name: material
+  icon:
+    logo: material/earth
+markdown_extensions:
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - md_in_html
+  - attr_list
+  - footnotes
+  - abbr
