@@ -1,6 +1,6 @@
 # Comment encadrer la liberté d’expression sur les réseaux sociaux ?
 
-[Présnetation](../Quenouille.odp)
+[Oral](https://github.com/kangapi/EMC/raw/main/Quenouille.odp)
 
 ## Introduction
 
