@@ -5,6 +5,8 @@ copyright: Copyright &copy; 2023 Damien Hasenfratz
 extra:
   generator: false
 theme:
+  palette:
+    primary: green
   language: fr
   features:
     - toc.integrate
@@ -15,6 +17,7 @@ theme:
   name: material
   icon:
     logo: material/earth
+plugins: []
 markdown_extensions:
   - pymdownx.snippets:
       auto_append:
