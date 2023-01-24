@@ -3,11 +3,11 @@
 ## Introduction
 
 Les réseaux sociaux sont un moyen de s’exprimer et de donner son avis plus facilement et anonymement. Il y a plusieurs moyens de s’exprimer : en publiant des photos, vidéos, en commentant sous un post… Il y a des paramètres de confidentialité qui permettent de choisir son public (amis, abonnés, tout le monde…).
-Cela nous amène à nous demander : Comment la liberté d’expression est-elle encadré sur les réseaux sociaux ?
-Tout d’abord on va parler de la liberté d’expression pourquoi faut-il l’encadrer ?, puis on va parler du cadre législatif et enfin du cadre technique. Cela nous amène à nous demander : Comment la liberté d’expression est-elle encadrer sur les réseaux sociaux ?
+Cela nous amène à nous demander : Comment la liberté d’expression est-elle encadrée sur les réseaux sociaux ?
+Tout d’abord nous allons voir pourquoi il faut encadrer la liberté d'expression, puis nous allons nous intéresser au cadre législatif et enfin au cadre technique.
 
 <figure markdown>
-  ![illustration-reseaux.jpg](images%2Fillustration-reseaux.jpg){ width="200" }
+  ![illustration-reseaux.jpg](images%2Fillustration-reseaux.jpg){ width="400" }
   <figcaption>Image d'illustration : www.vecteezy.com</figcaption>
 </figure>
 
@@ -20,14 +20,17 @@ Il s'agit de la liberté d'exprimer son opinion, sa pensée par tous les moyens,
 Pour garder cette liberté, il est important de l’encadrer, en particulier sur les réseaux sociaux.
 
 <figure markdown>
-  ![Liberté-d'expression.jpg](images%2FLibert%C3%A9-d%27expression.jpg){ width="200" }
+  ![Liberté-d'expression.jpg](images%2FLibert%C3%A9-d%27expression.jpg){ width="400" }
   <figcaption>Image d'illustration : www.courrierinternational.com</figcaption>
 </figure>
 
-### B. L’encadrement
+### B. Limiter les dérives
 
-Il est important d’encadrer la liberté d’expression pour éviter le cyber-harcèlement, 
-la manipulation ou encore les fakes news et protéger l’utilisateur des autres utilisateurs malveillants.
+Il est important d’encadrer la liberté d’expression pour limiter les dérives.
+En effet, sur les réseaux sociaux, il y a des personnes qui peuvent se servir de la liberté d’expression pour diffuser des propos racistes, sexistes, homophobes, antisémites, etc.
+Le risque de cyberharcèlement peut aussi être largement diminué en encadrant la liberté d’expression.
+Des personnes peuvent aussi se servir de la liberté d’expression pour manipuler l’opinion publique comme nous l’avons vu lors les élections américaines de 2016 où Donald Trump a utilisé les réseaux sociaux pour manipuler l’opinion publique.
+Les Fake News sont aussi un bon exemple de dérives de la liberté d’expression.
 
 ## 2. Un cadre législatif
 
@@ -35,8 +38,6 @@ la manipulation ou encore les fakes news et protéger l’utilisateur des autres
 Aux États-Unis, le 1er amendement de la Constitution garantit la liberté d'expression et de parole. Cependant, les dispositions de cet amendement ne garantissent qu'une protection de la liberté d'expression contre l'action de l’État et ne s'appliquent pas aux acteurs privés tels que les réseaux sociaux.
 
 La Convention Européenne des Droits de l'Homme, ratifiée par tous les Etats de l'Union Européenne définit à l'article 10 le droit à la liberté d'expression : “Toute personne a droit à la liberté d'expression […] sans qu'il puisse y avoir ingérence d'autorités publiques”. Par construction, cette définition est opposable aux autorités publiques mais pas aux entités privées.
-
-La contitution fraçise
 
 ### B. Par les platformes
 
@@ -64,6 +65,7 @@ La modération est un moyen d’encadrer la liberté d’expression sur les rés
 Elle peut être effectuée de façon communautaire, par les utilisateurs eux-mêmes en signalant des contenus (posts, commentaires, photos, vidéos…) pour différents motifs tels que la violence, le harcèlement, la pornographie, le racisme, le terrorisme, la propagande, le spam, la haine ... comme nous pouvons le voir sur la photo ci-dessous.
 Lorsque le contenu est signalé un certain nombre de fois, il peut être supprimé.
 
+>Issu des CGU[^1] de Meta[^2] :
 >Lorsqu’un contenu est signalé à Facebook, nous l’examinons et nous prenons des mesures sur tout ce qui, selon nous, enfreint nos Standards de la communauté.
 
 Mais elle peut aussi être effectuée par des algorithmes de détection.
@@ -72,7 +74,7 @@ Mais elle peut aussi être effectuée par des algorithmes de détection.
 
 Le public chinois se rassemble sur un ensemble complètement différent de réseaux sociaux comme le montre ce graphique :
 <figure markdown>
-  ![topreseaux-Chine.webp](images%2Ftopreseaux-Chine.webp){ width="600" }
+  ![topreseaux-Chine.webp](images%2Ftopreseaux-Chine.webp){ width="1000" }
   <figcaption>Graphique montrant les réseaux sociaux les plus populaires en chine blog.digimind.com</figcaption>
 </figure>
 La Chine est un pays qui a mis en place un cadre législatif et technique pour encadrer la liberté d’expression sur les réseaux sociaux.
@@ -80,7 +82,21 @@ L’Internet chinois est encadré de façon drastique par un système complexe d
 Les plates-formes chinoises comme Weibo ou WeChat font par ailleurs l’objet d’une censure étroite, tout en étant censées réguler elles-mêmes les contenus de leurs utilisateurs.
 Dans le viseur des censeurs, Weibo est habitué de longue date à bannir les mots-clés jugés sensibles et nettoie ses plates-formes des interventions contrevenant à la ligne du Parti communiste au pouvoir.
 
+## Conclusion
+
+Les réseaux sociaux sont des outils qui permettent de s’exprimer librement, mais ils sont aussi des outils qui peuvent être utilisés pour censurer les opinions divergentes.
+Il est actuellement très difficile de définir un cadre légal et technique pour encadrer la liberté d’expression sur les réseaux sociaux, ils sont des outils qui évoluent très rapidement et qui sont très complexes.
+Mais dans un futur proche grace aux avancées de l'intelligence artificielle il sera possible de modérer les contenus de façon plus efficace et plus rapide.
+L'IA[^3] [Perspective](https://perspectiveapi.com) de Google est un exemple de ce que pourrait être l'avenir de la modération des contenus sur les réseaux sociaux.
+Elle est déjà capable de détecter les commentaires haineux et les supprimer automatiquement.
+Mais L'encadrement doit aussi être une preoccupation de la part des propriétaires des réseaux sociaux, car en absence de lois contraignantes, ils sont les seuls à pouvoir décider de ce qui est autorisé ou non sur leurs plateformes.
+
+### Retour personnel Damien
+
+Ce dossier documentaire m'a permis de comprendre l'importance de la liberté d'expression sur les réseaux sociaux, mais aussi de comprendre les enjeux.
+De plus, travailler en groupe en se répartissant les tâches n'est pas simple, mais cela permet de mieux comprendre les différents points de vue et de mieux appréhender le sujet.
 
 
 [^1]: Conditions générales d’utilisation
 [^2]: Maison-mère de Facebook qui regroupe entre autre Instagram et WhatsApp
+[^3]: Intelligence artificielle
