@@ -29,7 +29,7 @@ Pour garder cette liberté, il est important de l’encadrer, en particulier sur
 Il est important d’encadrer la liberté d’expression pour limiter les dérives.
 En effet, sur les réseaux sociaux, il y a des personnes qui peuvent se servir de la liberté d’expression pour diffuser des propos racistes, sexistes, homophobes, antisémites, etc.
 Le risque de cyberharcèlement peut aussi être largement diminué en encadrant la liberté d’expression.
-Des personnes peuvent aussi se servir de la liberté d’expression pour manipuler l’opinion publique comme nous l’avons vu lors les élections américaines de 2016 où Donald Trump a utilisé les réseaux sociaux pour manipuler l’opinion publique.
+Des personnes peuvent aussi se servir de la liberté d’expression pour manipuler l’opinion publique comme nous l’avons vu lors les élections américaines de 2016 où Donald Trump a utilisé les réseaux sociaux pour manipuler l’opinion publique. Source : [www.conseil-constitutionnel.fr](https://www.conseil-constitutionnel.fr/nouveaux-cahiers-du-conseil-constitutionnel/les-effets-des-reseaux-sociaux-dans-les-campagnes-electorales-americaines).
 Les Fake News sont aussi un bon exemple de dérives de la liberté d’expression.
 
 ## 2. Un cadre législatif
