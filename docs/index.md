@@ -39,11 +39,12 @@ Aux États-Unis, le 1er amendement de la Constitution garantit la liberté d'exp
 
 La Convention Européenne des Droits de l'Homme, ratifiée par tous les Etats de l'Union Européenne définit à l'article 10 le droit à la liberté d'expression : “Toute personne a droit à la liberté d'expression […] sans qu'il puisse y avoir ingérence d'autorités publiques”. Par construction, cette définition est opposable aux autorités publiques mais pas aux entités privées.
 
-### B. Par les platformes
+### B. Par les réseaux sociaux
 
-Le cadre est la plus pars du temps définit par les réseaux sociaux eux-mêmes à travers les CGU[^1].
-Les CGU[^1] sont des textes qui encadrent les règles d’utilisation d’un site et détermine les droits ainsi que les obligations des utilisateurs et de l’éditeur. Les CGU[^1] de Meta[^2] nous montrent bien les règles que fixe le réseau social :
+Le cadre est la plupart du temps défini par les réseaux sociaux eux-mêmes à travers les CGU[^1].
+Les CGU sont des textes qui encadrent les règles d’utilisation d’un site et déterminent les droits ainsi que les obligations des utilisateurs et de l’éditeur. Les CGU de Meta[^2] nous montrent bien les règles que fixe le réseau social :
 
+>Issu des CGU de Meta :
 >Ce que vous pouvez partager et faire sur les Produits Meta
  Nous voulons que les gens utilisent les Produits Meta pour s’exprimer et partager du contenu qui leur importe, mais pas au détriment de la sécurité et du bien-être des autres ou de l’intégrité de notre communauté. Vous acceptez donc de ne pas agir de la manière décrite ci-dessous :
  Vous ne pouvez pas utiliser nos Produits pour faire ou partager quoi que ce soit :
@@ -56,16 +57,17 @@ Les CGU[^1] sont des textes qui encadrent les règles d’utilisation d’un sit
 
 Ce sont les plateformes qui font la loi, elles peuvent donc supprimer ou bloquer le contenu qui enfreint ces dispositions.
 
+>Issu des CGU de Meta :
 > Nous pouvons également supprimer ou limiter l’accès au contenu, aux services ou aux informations si nous estimons que cela s’avère raisonnablement nécessaire pour éviter ou atténuer l’utilisation détournée de nos services ou les effets juridiques ou réglementaires négatifs sur Meta.
 ## 3. Le cadre technique
 
 ### A. La modération
 
-La modération est un moyen d’encadrer la liberté d’expression sur les réseaux sociaux. Elle consiste à supprimer ou à censurer les contenus qui ne respectent pas les règles de la plateforme définit par les CGU.
-Elle peut être effectuée de façon communautaire, par les utilisateurs eux-mêmes en signalant des contenus (posts, commentaires, photos, vidéos…) pour différents motifs tels que la violence, le harcèlement, la pornographie, le racisme, le terrorisme, la propagande, le spam, la haine ... comme nous pouvons le voir sur la photo ci-dessous.
+La modération est un moyen d’encadrer la liberté d’expression sur les réseaux sociaux. Elle consiste à supprimer ou à censurer les contenus qui ne respectent pas les règles de la plateforme définies par les CGU.
+Elle peut être effectuée de façon communautaire, par les utilisateurs eux-mêmes en signalant des contenus (posts, commentaires, photos, vidéos…) pour différents motifs tels que la violence, le harcèlement, la pornographie, le racisme, le terrorisme, la propagande, le spam, la haine ...
 Lorsque le contenu est signalé un certain nombre de fois, il peut être supprimé.
 
->Issu des CGU[^1] de Meta[^2] :
+>Issu des CGU de Meta :
 >Lorsqu’un contenu est signalé à Facebook, nous l’examinons et nous prenons des mesures sur tout ce qui, selon nous, enfreint nos Standards de la communauté.
 
 Mais elle peut aussi être effectuée par des algorithmes de détection.
@@ -75,7 +77,7 @@ Mais elle peut aussi être effectuée par des algorithmes de détection.
 Le public chinois se rassemble sur un ensemble complètement différent de réseaux sociaux comme le montre ce graphique :
 <figure markdown>
   ![topreseaux-Chine.webp](images%2Ftopreseaux-Chine.webp){ width="1000" }
-  <figcaption>Graphique montrant les réseaux sociaux les plus populaires en chine blog.digimind.com</figcaption>
+  <figcaption>Graphique montrant les réseaux sociaux les plus populaires en Chine blog.digimind.com</figcaption>
 </figure>
 La Chine est un pays qui a mis en place un cadre législatif et technique pour encadrer la liberté d’expression sur les réseaux sociaux.
 L’Internet chinois est encadré de façon drastique par un système complexe de censure (« la Grande Muraille électronique ») qui bloque notamment les réseaux sociaux Facebook et Twitter, ainsi que YouTube et Google.
@@ -88,13 +90,20 @@ Les réseaux sociaux sont des outils qui permettent de s’exprimer librement, m
 Il est actuellement très difficile de définir un cadre légal et technique pour encadrer la liberté d’expression sur les réseaux sociaux, ils sont des outils qui évoluent très rapidement et qui sont très complexes.
 Mais dans un futur proche grace aux avancées de l'intelligence artificielle il sera possible de modérer les contenus de façon plus efficace et plus rapide.
 L'IA[^3] [Perspective](https://perspectiveapi.com) de Google est un exemple de ce que pourrait être l'avenir de la modération des contenus sur les réseaux sociaux.
-Elle est déjà capable de détecter les commentaires haineux et les supprimer automatiquement.
+Elle est déjà capable de détecter les commentaires haineux et de les supprimer automatiquement.
 Mais L'encadrement doit aussi être une preoccupation de la part des propriétaires des réseaux sociaux, car en absence de lois contraignantes, ils sont les seuls à pouvoir décider de ce qui est autorisé ou non sur leurs plateformes.
 
 ### Retour personnel Damien
 
 Ce dossier documentaire m'a permis de comprendre l'importance de la liberté d'expression sur les réseaux sociaux, mais aussi de comprendre les enjeux.
 De plus, travailler en groupe en se répartissant les tâches n'est pas simple, mais cela permet de mieux comprendre les différents points de vue et de mieux appréhender le sujet.
+
+### Retour personnel Claudia
+
+Cette expérience à plusieurs points positifs car il favorise les échanges par groupes donc cela permet d’avoir des points de vue totalement différents et il faut donc trouver un juste milieu.
+Cependant ce travail n’était pas gagné d’avance car il y a beaucoup d’informations à citer et de nombreux chiffres, diagrammes, lois ... on a donc dû faire un tri et garder le plus important.
+
+### Retour personnel Charline
 
 
 [^1]: Conditions générales d’utilisation
