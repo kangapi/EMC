@@ -105,6 +105,11 @@ Cependant ce travail n’était pas gagné d’avance car il y a beaucoup d’in
 
 ### Retour personnel Charline
 
+J’ai trouvé cette recherche intéressante, cette problématique est un sujet d’actualité qui nous fait réfléchir sur l’encadrement de la liberté d’expression sur les réseaux sociaux.
+On peut constater que ce n’est pas toujours simple de s’exprimer en toute liberté car il faut faire attention à son langage et aux gens à qui on s’adresse pour ne pas les influencer ou rentrer dans des conflits.
+Cependant, cette liberté d’expression peut amener a dû cyber harcèlement si la personne en face nous force a avoir le même opinion.
+Je pense que c’est important d’encadrer cette liberté d’expression sur les réseaux car cela permet de sécuriser la parole et les idées de chacun sur ce qu’on pense.
+
 
 [^1]: Conditions générales d’utilisation
 [^2]: Maison-mère de Facebook qui regroupe entre autre Instagram et WhatsApp
