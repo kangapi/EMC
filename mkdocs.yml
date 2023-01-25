@@ -4,6 +4,9 @@ site_name: Dossier Documentaire EMC
 copyright: Copyright &copy; 2023 Damien Hasenfratz
 extra:
   generator: false
+  analytics:
+    provider: google
+    property: GTM-WNMKJ66
 theme:
   palette:
     primary: green
